@@ -1,3 +1,6 @@
-#Guacamole.md
-##Ingredients
-##Instructions
+# Guacamole.md
+## Ingredients
+* avocado
+* lemon
+* salt
+## Instructions
